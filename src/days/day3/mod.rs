@@ -5,7 +5,7 @@ use std::str::FromStr;
 use std::fs;
 
 //use image::{PNG, save_buffer_with_format, ColorType, ImageBuffer, Rgb, Luma};
-use std::path::Path;
+//use std::path::Path;
 //use image::ColorType::RGB;
 
 pub fn run_part_2() {
